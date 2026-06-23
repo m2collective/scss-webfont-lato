@@ -1,0 +1,13 @@
+@use "sass:list";
+@use "variables" as *;
+
+@if(list.index($font-styles, normal) and list.index($font-weights, 800)) {
+  @font-face {
+    font-family: 'Lato';
+    src: url('../fonts/lato-800-normal.woff2') format('woff2'),
+    url('../fonts/lato-800-normal.woff') format('woff');
+    font-display: $font-display;
+    font-style: normal;
+    font-weight: 800;
+  }
+}
