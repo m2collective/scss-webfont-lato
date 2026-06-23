@@ -10,8 +10,6 @@
     "webfont",
     "woff",
     "woff2",
-    "css",
-    "less",
     "scss"
   ],
   "main": "index.scss",
