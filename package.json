@@ -10,8 +10,7 @@
     "lato",
     "typeface",
     "woff",
-    "woff2",
-    "front-end"
+    "woff2"
   ],
   "main": "index.scss",
   "exports": {
