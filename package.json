@@ -1,16 +1,17 @@
 {
   "name": "@m2collective/scss-webfont-lato",
-  "version": "0.1.0",
-  "description": "Package for integrating WebFont Lato",
+  "version": "1.0.0",
+  "description": "Package for integrating WebFont Lato.",
   "keywords": [
     "m2collective",
-    "lato",
+    "scss",
     "font",
-    "typeface",
     "webfont",
+    "lato",
+    "typeface",
     "woff",
     "woff2",
-    "scss"
+    "front-end"
   ],
   "main": "index.scss",
   "exports": {

@@ -3,7 +3,7 @@
 Package for integrating `Lato` fonts in a web environment.
 
 ![npm](https://img.shields.io/npm/v/@m2collective/scss-webfont-lato?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@m2collective/scss-webfont-lato?style=for-the-badge)
+
 ___
 
 ## Installation
@@ -19,14 +19,6 @@ npm i @m2collective/scss-webfont-lato
 Font files are located in the `fonts` directory. To import all fonts, you can use:
 
 ```scss
-body {
-  font-family: 'Lato', sans-serif;
-}
-```
-
-### Importing
-
-```scss
 @use "@m2collective/scss-webfont-lato";
 ```
 
@@ -38,6 +30,12 @@ You can also configure which fonts will be used when importing:
   $font-styles: (italic, normal),
   $font-weights: (100, 200, 300, 400, 500, 600, 700, 800, 900),
 );
+```
+
+```scss
+body {
+  font-family: 'Lato', sans-serif;
+}
 ```
 
 ## Licensing
