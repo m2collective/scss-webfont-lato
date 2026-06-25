@@ -10,7 +10,9 @@
     "lato",
     "typeface",
     "woff",
-    "woff2"
+    "woff2",
+    "italic",
+    "normal"
   ],
   "main": "index.scss",
   "exports": {
