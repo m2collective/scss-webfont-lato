@@ -3,7 +3,7 @@
 Package for integrating `Lato` fonts in a web environment.
 
 ![npm](https://img.shields.io/npm/v/@m2collective/scss-webfont-lato?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@m2collective/scss-webfont-lato?style=for-the-badge)
+
 ___
 
 ## Installation
